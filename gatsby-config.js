@@ -23,5 +23,13 @@ module.exports = {
       },
       __key: "images",
     },
+    // {
+    //   resolve: "gatsby-source-graphql",
+    //   options: {
+    //     typeName: "BASICA",
+    //     fieldName: "basica",
+    //     url: "https://www.gastby-la-basica.rcnra-dev.com/graphql",
+    //   },
+    // },
   ],
 };
